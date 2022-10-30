@@ -4,7 +4,7 @@ from config import (BOT_NAME, SUPPORT_GROUP, OWNER_USERNAME, BOT_USERNAME)
 
 button1 = [
     [
-        InlineKeyboardButton(text="🥀𝚄𝙿𝙳𝙰𝚃𝙴𝚂🥀", url=f"https://t.me/We_rfriends"),
+        InlineKeyboardButton(text="🥀LUCKY🥀", url=f"https://t.me/all_bot_lucky"),
         InlineKeyboardButton(text="💥𝙰𝙳𝙳 𝙼𝙴 𝙱𝙰𝙱𝚈💥", url=f"http://t.me/{BOT_USERNAME}?startgroup=true"),
     ],
     [
@@ -32,7 +32,7 @@ button2 = [
 
 button3 = [
     [
-        InlineKeyboardButton(text="💥𝚂𝙾𝚄𝚁𝙲𝙴💥", url="https://telegra.ph/file/9b0455dae14d5639f936d.mp4"),
+        InlineKeyboardButton(text="💥𝚂𝙾𝚄𝚁𝙲𝙴💥", url="https://te.legra.ph/file/bc8f6304b110ac3773316.mp4"),
         InlineKeyboardButton(text="« 𝙱𝙰𝙲𝙺 «", callback_data="HOME"),
     ],
 ]
